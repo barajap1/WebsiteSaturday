@@ -1,0 +1,14 @@
+{
+  "hash": "2b4127d874370b9d21228ed5b9d0aafa",
+  "result": {
+    "markdown": "---\ntitle: \"R example\"\nauthor: \"Pablo\"\ndate: \"2022-11-19\"\ncategories: [news, code, analysis]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1 - 2\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 0\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
